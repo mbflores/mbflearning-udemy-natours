@@ -25,8 +25,8 @@
     text-transform: uppercase;
     font-weight: 700;
     background-image: linear-gradient(to right, $color-primary-light, $color-primary-dark);
-    display: inline-block;
     -webkit-background-clip: text;
+    display: inline-block;
     color: transparent;
     transition: all .2s;
     letter-spacing: .2rem;
